@@ -1,5 +1,5 @@
-# NAME:vignesh.v
-# REG.NO: 212223230241
+# NAME:ROGITH GANESH.R
+# REG.NO: 212223100046
 # Sturdy-Octo-Disco-Adding-Sunglasses-for-a-Cool-New-Look
 
 Sturdy Octo Disco is a fun project that adds sunglasses to photos using image processing.
